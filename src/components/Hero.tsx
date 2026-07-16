@@ -54,7 +54,7 @@ const Hero: React.FC = () => {
           <Magnet padding={150} strength={3}>
             <div className="relative w-full aspect-[3/4] rounded-2xl overflow-hidden bg-[#1a1a1a] border border-[#D7E2EA]/10">
               <img
-                src="/assets/portrait.jpg"
+                src="assets/portrait.jpg"
                 alt={profileData.name}
                 className="w-full h-full object-cover"
               />
